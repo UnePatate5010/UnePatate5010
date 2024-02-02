@@ -7,7 +7,7 @@ I will upload here random personal projects. Feel free to check out everything t
 <body>
 <a href="https://github.com/UnePatate5010">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UnePatate5010&layout=donut-vertical&langs_count=10&theme=radical&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
-    <img src="./tooth.gif" alt="tooth">
 </a>
+      <img src="./tooth.gif" alt="tooth">
 </body>
 
