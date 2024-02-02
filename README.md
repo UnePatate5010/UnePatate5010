@@ -7,7 +7,5 @@ I will upload here random personal projects. Feel free to check out everything t
 <a href="https://github.com/UnePatate5010" align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UnePatate5010&layout=donut-vertical&langs_count=10&theme=radical&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
 </a>
 
-<div align="center">
-<img src="https://c.tenor.com/BAzma6OlbvAAAAAd/tenor.gif" width="200">
-</div>
+![color picker](https://c.tenor.com/BAzma6OlbvAAAAAd/tenor.gif)
 
