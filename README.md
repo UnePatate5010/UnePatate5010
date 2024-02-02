@@ -3,15 +3,7 @@
 I'm a computer science student at Enseirb-Matmeca, a french engineering school.
 I will upload here random personal projects. Feel free to check out everything that might catch your interest !
 
-<html>
-  <head>
-    <style>
-      img {
-        display: inline-block;
-        margin: 0 10px; /* Add some spacing between the images */
-      }
-    </style>
-  </head>
+
 <h3 align="left">Badges:</h3>
 <body>
 
@@ -20,5 +12,3 @@ I will upload here random personal projects. Feel free to check out everything t
 </a>
     <img src="./tooth.gif" alt="tooth"/>
 </body>
-
-</html>
