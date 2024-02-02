@@ -8,3 +8,4 @@ I will upload here random personal projects. Feel free to check out everything t
 <img src="https://github.com/UnePatate5010/UnePatate5010/blob/main/tooth.gif">
 </a>
 
+![alt-text](tooth.gif)
