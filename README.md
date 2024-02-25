@@ -13,6 +13,6 @@ I will upload here random personal projects. Feel free to check out everything t
 </a>
   </div>
   <div class='child'>
-    <img src="./tooth.gif" alt="tooth" width="250"/>
+    <img src="./tooth.gif" alt="tooth"/>
   </div>
 </div>
