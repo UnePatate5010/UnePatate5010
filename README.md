@@ -12,3 +12,16 @@ I will upload here random personal projects. Feel free to check out everything t
 </a>
     <img src="./tooth.gif" alt="tooth"/>
 </body>
+
+
+
+<div class='parent'>
+  <div class='child'>
+    <a href="https://github.com/UnePatate5010">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UnePatate5010&layout=donut-vertical&langs_count=10&theme=radical&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages"/>
+</a>
+  </div>
+  <div class='child'>
+    <img src="./tooth.gif" alt="tooth"/>
+  </div>
+</div>
