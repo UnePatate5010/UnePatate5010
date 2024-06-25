@@ -1,7 +1,7 @@
-### Hey ! You're here on my GitHub profile, have a look !
+### Hey ! You're here on my GitHub profile, have a look!
 
-I'm a computer science student at Enseirb-Matmeca, a french engineering school.
-I will upload here random personal or school projects. Feel free to check out everything that might catch your interest !
+I'm a computer science student at Enseirb-Matmeca, a French engineering school.
+I will upload here random personal or school projects. Feel free to check out everything that might catch your interest!
 
 
 <h3 align="left">Badges:</h3>
